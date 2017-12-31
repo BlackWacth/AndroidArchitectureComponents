@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidArchitectureComponents.iml" filepath="$PROJECT_DIR$/AndroidArchitectureComponents.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSampleJava/BasicSampleJava.iml" filepath="$PROJECT_DIR$/BasicSampleJava/BasicSampleJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BasicSampleKotlin/BasicSampleKotlin.iml" filepath="$PROJECT_DIR$/BasicSampleKotlin/BasicSampleKotlin.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BasicSampleJava</string>
+
+    <string name="loading">Loading products…</string>
+
+    <string name="description">Products List</string>
+</resources>
